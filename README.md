@@ -1,12 +1,10 @@
 [![MasterHead](https://wallpapers.com/images/hd/gears-linkedin-cover-mvrjmcq6p2mfs1sq.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Gulnaz Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Gulnaz Ahmad<img alt="Coding" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="width: 100px;">
+</h1>
 <h3 align="center">A passionate frontend backend developer from India</h3>
-<div class="image-container" style="display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 15vh;">
-    <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="width: 150px;">
-</div>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killua0393&label=Profile%20views&color=0e75b6&style=flat" alt="killua0393" /> </p>
 
