@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Azure,MERN**
 
-- 📫 How to reach me **agulu393@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
